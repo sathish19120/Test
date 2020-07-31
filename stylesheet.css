@@ -1,0 +1,50 @@
+ h1 {
+   color :blue;
+       
+}
+ body {
+    color :#2e96ca;
+}
+ li {
+  float: left;
+}
+ li {
+  list-style : none;
+  padding :33px 20px;
+}
+.dropdown-menu {
+   color :#2e96ca;
+   text-decoration :none:
+   text-decoration-line :none;
+   text-decoration-style :solid;
+   text-decoration-color :current color;
+   text-decoration-thickness :auto;
+ background :#e6e6e6;
+   background-color : rgb(230, 230, 230);
+   background-position-x: 0%;
+   background-position-y: 0%;
+   background-repeat: repeat;
+   background-attachment: scroll;
+   background-image: none;
+   background-size: auto;
+   background-origin: padding-box;
+   background-clip : border-box;
+}
+.dropdown-menu a {
+  font-size: 15px;
+}
+ a: hover, a: focus {
+  outline: none;
+}
+a {
+ transistion: color 300ms, background-color 300ms;
+}
+*, ::before, ::after {
+box-sizing: border-box;
+}
+.dropdown-menu {
+  list-style: none;
+}
+body {
+font-family: "callum-regular";
+}
